@@ -3,3 +3,17 @@ Useful INfo:    http://dataconomy.com/10-online-big-data-courses/
 Machine Learning:   http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 
 Big Data: https://bigdatauniversity.com/
+
+Numpy:    https://vimeo.com/77263537?utm_source=datafloq&utm_medium=ref&utm_campaign=datafloq
+
+R:      http://blog.revolutionanalytics.com/2012/12/coursera-videos.html
+
+
+
+Reference:
+----------
+For Python + Big-Data: https://datafloq.com/read/5-best-python-libraries-for-data-science/994
+
+All video tutorials: http://showmedo.com/videotutorials/
+
+Machine Learning Python : https://www.youtube.com/watch?v=4ONBVNm3isI

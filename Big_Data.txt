@@ -18,3 +18,5 @@ For Python + Big-Data: https://datafloq.com/read/5-best-python-libraries-for-dat
 All video tutorials: http://showmedo.com/videotutorials/
 
 9 python data science libraries: http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1
+
+https://www.quora.com/What-are-the-best-Python-2-7-modules-for-data-mining
